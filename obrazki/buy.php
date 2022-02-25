@@ -36,7 +36,7 @@ if(isset($_POST['imie']))
 	
 	$adres=strip_tags($adres);
 	
-	$sekret="6LdDkqUZAAAAAJ7zf_sCsreDnYYYA7sqPnBZtVK9";
+	$sekret="XYZ";
 	
 	$r=$_POST['g-recaptcha-response'];
 	
